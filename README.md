@@ -8,7 +8,7 @@ YouTube’s trending videos vary by location across the world. The impact of lik
 
 ## Datasets used
 There are 3 tables available for the analysis
-- [YT_trending_videos.csv](https://github.com/KopiteArnab/Youtube_trending_videos_sql/blob/359de9d5f813821b2a7b70bb70400c24807775b9/YT_trending_videos.csv):    YT_trending_videos: This table has video level information along with dates on which videos were trending along with metrics such as comments, likes, views, etc.
+- [YT_trending_videos.csv](https://github.com/KopiteArnab/Youtube_trending_videos/blob/c8c87558b1ea721eeec5486c1ee2ede522a0c71f/YT_trending_videos.csv):    YT_trending_videos: This table has video level information along with dates on which videos were trending along with metrics such as comments, likes, views, etc.
 - [YT_channel_map.csv](https://github.com/KopiteArnab/Youtube_trending_videos/blob/e99b1c3685945bdd561af0e1aaf6e056a4357d65/YT_channel_map.csv):
 YT_channel_map: This table has channel_id mapping with the channel title which is also interpreted as channel name
 - [YT_category_map.csv](https://github.com/KopiteArnab/Youtube_trending_videos/blob/7cca3a96b3996726f647bfaa511e644eb77ab78f/YT_category_map.csv):
@@ -25,4 +25,4 @@ YT_category_map: This table has category_id mapping. The videos on YouTube are m
 
 
 ## Entity Relationship Diagram
-![alt text](https://github.com/KopiteArnab/Youtube_trending_videos_sql/blob/d050acda7e27b27464e18d4178d8a9be7767910d/ERD.jpg)
+![alt text](https://github.com/KopiteArnab/Youtube_trending_videos/blob/c8c87558b1ea721eeec5486c1ee2ede522a0c71f/ERD.jpg)
